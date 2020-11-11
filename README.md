@@ -20,7 +20,7 @@
   <h2>  という話題について触れていこうと思う。
 </h2>
 <h3></h3>
-<img src="Pictures/Saved Pictures/無題.png">
+<img src="https://raw.githubusercontent.com/rising-sun-112/taiyou/main/%E7%84%A1%E9%A1%8C.png">
 </div>
 
 
