@@ -40,7 +40,7 @@
 <p>そ　れ　は</p>
 <h1>“石油“があるかもしれない</h1>
 <h3>ということなのだ。</h3>
-<img src="Pictures/Saved Pictures/OIPV2YSBGSZ.jpg">
+<img src="https://raw.githubusercontent.com/rising-sun-112/taiyou/main/OIPV2YSBGSZ.jpg">
 </div>
 
 <div class="reason-2">
