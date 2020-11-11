@@ -66,7 +66,7 @@
     <h2>１９９０年代に建てられたマンションの可能性が高いようだ。
 </h2>
 <p>どのようにマンションの下にあると発見したのかが気になるところではある。</p>
-<img src="Pictures/Saved Pictures/unnamed.png">
+<img src="https://raw.githubusercontent.com/rising-sun-112/taiyou/main/unnamed.png">
 </div>
 
 <div class="finish">
